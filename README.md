@@ -68,10 +68,10 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-Ruby
-Rails
-Node package manager (npm)
-Code Editor
+  -Ruby
+  -Rails
+  -Node package manager (npm)
+  -Code Editor
 <!--
 Example command:
 
@@ -90,7 +90,7 @@ Once the download is complete you will be able to access my project locally.
 Example commands:
 
 ```bash
-$ git clone https://github.com/OyePriscilla/Budget-.git
+$ git clone https://github.com/OyePriscilla/rails-react-greetings-app
 ```
 --->
 
@@ -185,7 +185,7 @@ None at the moment
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/OyePriscilla/Budget-App/issues).
+Feel free to check the [issues page](https://github.com/OyePriscilla/rails-react-greetings-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
