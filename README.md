@@ -9,45 +9,10 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)   
-    - [Key Features](#key-features)
-    I was able to learn how to connect rails API with REACT frontend.
-  - [🚀 Live Demo](#live-demo)
-  Not available now
-- [💻 Getting Started](#getting-started)
-To get a local copy up and running, follow these steps.
-  - [Setup](#setup)
-  Github
-Enter this url: https://github.com/OkoyeCharles/hello-rails-react/ in your web browser.
-Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
-Select the download Zip option from drop-down menu.
-Once the download is complete you will be able to access my project locally.
-
-```bash
-$ git clone https://github.com/OyePriscilla/Budget-.git
-```
-  - [Prerequisites](#prerequisites)
-  Ruby
-Rails
-Node package manager (npm)
-  - [Install](#install)
-
-
-- [❓ FAQ](#faq)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Rails React App] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[This poject was built to implement a connection between a Ruby on Rails back-end and React front-end.
 Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.]** is a...
@@ -56,8 +21,6 @@ Understand the pros and cons of different approaches of connecting Ruby on Rails
 
 ### Tech Stack <a name="tech-stack"> 
 </a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
