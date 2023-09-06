@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 # 📖 [Hello Rails React App] <a name="about-project"></a>
